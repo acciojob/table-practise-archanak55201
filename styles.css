@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
 table{
-	
-  border-color:rgb(0,0,0);
+	border:1px solid black;
 	background:yellow;
+}
